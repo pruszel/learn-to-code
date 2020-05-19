@@ -1,8 +1,5 @@
 # Learn to Code
 
-## Scratch
-TODO
-
 ## Games
 * [Pong](https://repl.it/@phpete/Pong-Java) - Java
 
@@ -16,6 +13,9 @@ TODO
 
   source code <a href='./Snake'>here</a>
 
+### Scratch
+
+* TODO
 
 ### Turtle
 
