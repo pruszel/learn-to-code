@@ -1,0 +1,25 @@
+.parent {
+  background: aqua;
+  padding: 40px;
+  margin: 10px;
+}
+.child {
+  background: yellow;
+  padding: 20px;
+  margin: 10px;
+}
+
+/*
+ * TODO change greg's sibling background to orange
+ */
+#greg + .child {
+  background: orange;
+}
+
+/*
+ * TODO change jenny's background to red
+ */
+ #luke ~ .parent {
+   background: red;
+ }
+ 

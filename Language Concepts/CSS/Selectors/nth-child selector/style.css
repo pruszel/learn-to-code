@@ -1,0 +1,87 @@
+//
+// nth-child formula:
+//   Xn + Y
+// x = step size
+// y = offset
+//
+
+/*
+ * TODO
+ *  1) Give box2 height, width
+ *  2) Give odd box2 background blue
+ *  3) Give every 3rd box2 background red
+ *  4) Give 5th box2 background yellow
+ *  5) Give every box after 7th background orange
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+.box {
+  width: 200px;
+  height: 50px;
+  background: yellow;
+  margin: 40px;
+  padding: 10px 0 0;
+  text-align: center;
+}
+
+
+a:visited {
+  color:green;
+}
+a:hover {
+  opacity:0.5; // 0 = 0%, 1 = 100%
+}
+a:focus{
+  color:black;
+}
+
+.box:hover {
+  background: black !important;
+}
+
+.box:nth-child(1) {
+  background: green;
+}
+
+.box:last-child {
+  background: green !important;
+}
+
+/*
+ * TODO: color even boxes red
+ */
+.box:nth-child(even){
+  background: red; 
+}
+
+
+
+/*
+ * TODO: color every 5th box orange
+ */
+.box:nth-child(5n){
+background:orange;
+}
+
+
+
+
+
+
+/*
+ * TODO: color 2nd and 8th box blue
+ */
+.box:nth-child(2),
+.box:nth-child(8){
+  background:blue;
+}

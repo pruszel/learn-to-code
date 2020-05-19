@@ -1,0 +1,21 @@
+.box{
+  height:200px;
+  width:200px;
+  border:2px solid black;
+  padding:50px 0px 0px 50px;
+  margin: 50px 0px 0px 100px;
+}
+
+
+// margin-top:
+// margin-left:
+// padding-right:
+// padding-bottom:
+
+/*
+ * TODO
+ *  1) Give box2 height, width, and border
+ *  2) Give box2 padding of 100px on all sides
+ *  3) Give box2 margin-top of 200px
+ *  4) Give box2 padding-left of 50px
+ */
