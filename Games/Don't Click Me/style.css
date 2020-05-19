@@ -1,0 +1,76 @@
+html {
+  background: #eee;
+  height: 100%;
+}
+body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.center {
+  text-align: center;
+  margin-bottom: 15%;
+}
+
+#js-counter {
+  transition: 0.8s color ease;
+  cursor: default;
+}
+
+
+#js-click {
+  background: #FF4136;
+  color: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 8px;
+}
+#js-click:focus {
+  outline: none;
+}
+#js-click.disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+}
+#js-click.disabled:active {
+  border-style: outset;
+}
+
+
+#js-playAgain {
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+#js-playAgain:visited {
+  color: blue;
+}
+
+
+.warmer1 {
+  color: #0074D9;
+}
+.warmer2 {
+  color: #7FDBFF;
+}
+.warmer3 {
+  color: #39CCCC;
+}
+.warmer4 {
+  color: #FFDC00;
+}
+.warmer5 {
+  color: #FF851B;
+}
+.warmer6 {
+  color: #FF4136;
+  transition: none;
+}
+.winner {
+  color: #2ECC40;
+  transition: none;
+}
