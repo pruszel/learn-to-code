@@ -1,19 +1,19 @@
 # Learn to Code
 
-_[← back](https://github.com/peterlopez/learn-to-code)_
+[← back](https://github.com/peterlopez/learn-to-code)
 
 ## Games
 * [Pong](Pong) - Java
 
-  _demo [here](https://repl.it/@phpete/Pong-Java)_
+  [demo](https://repl.it/@phpete/Pong-Java)
 
 * [Snake](Snake) - Javascript
 
-  _demo [here](https://repl.it/@phpete/Snake-Javascript)_
+  [demo](https://repl.it/@phpete/Snake-Javascript)
 
 * [Don't Click Me](Don't%20Click%20Me) - Javascript
 
-  _demo [here](https://repl.it/@phpete/Dont-Click-Me-Javascript)_
+  [demo](https://repl.it/@phpete/Dont-Click-Me-Javascript)
 
 ### Scratch
 
@@ -23,35 +23,35 @@ _[← back](https://github.com/peterlopez/learn-to-code)_
 
 * [Flappy Bird](Flappy%20Bird) - Python
 
-  _demo [here](https://repl.it/@phpete/Flappy-Bird-Python)_
+  [demo](https://repl.it/@phpete/Flappy-Bird-Python)
 
 * [Snake](Snake) - Python
 
-  _demo [here](https://repl.it/@phpete/Snake-Python)_
+  [demo](https://repl.it/@phpete/Snake-Python)
 
 
 ### Text-based
 
 * [Tic Tac Toe](Tic-Tac-Toe) - Python
 
-  _demo [here](https://repl.it/@phpete/Tic-Tac-Toe-Python)_
+  [demo](https://repl.it/@phpete/Tic-Tac-Toe-Python)
 
 * [Detective Game](Detective%20Game) - Python
 
-  _demo [here](https://repl.it/@phpete/Detective-Game-Python)_
+  [demo](https://repl.it/@phpete/Detective-Game-Python)
 
 * [Binary Birthday Game](Binary%20Birthday%20Game) - Python
 
-  _demo [here](https://repl.it/@phpete/Binary-Birthday-Game-Python)_
+  [demo](https://repl.it/@phpete/Binary-Birthday-Game-Python)
 
 * [Coin Toss](Coin%20Toss) - C++
 
-  _demo [here](https://repl.it/@phpete/Coin-Toss-C)_
+  [demo](https://repl.it/@phpete/Coin-Toss-C)
 
 * [Number Guessing Game](Number%20Guessing%20Game) - C++
 
-  _demo [here](https://repl.it/@phpete/Number-Guess-C)_
+  [demo](https://repl.it/@phpete/Number-Guess-C)
 
 * [Sudoku Solver](Sudoku%20Solver) - Python
 
-  ~~_demo [here](#)_~~
+  ~~[demo](#)~~
