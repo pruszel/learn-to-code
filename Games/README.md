@@ -3,17 +3,17 @@
 _[← back](https://github.com/peterlopez/learn-to-code)_
 
 ## Games
-* [Pong](https://repl.it/@phpete/Pong-Java) - Java
+* [Pong](Pong) - Java
 
-  source code <a href='./Pong'>here</a>
+  _demo [here](https://repl.it/@phpete/Pong-Java)_
 
-* [Snake](https://repl.it/@phpete/Snake-Javascript) - Javascript
+* [Snake](Snake) - Javascript
 
-  source code <a href='./Snake/Snake%20-%20Javascript'>here</a>
+  _demo [here](https://repl.it/@phpete/Snake-Javascript)_
 
-* [Don't Click Me](https://repl.it/@phpete/Dont-Click-Me-Javascript) - Javascript
+* [Don't Click Me](Don't%20Click%20Me) - Javascript
 
-  source code <a href="./Don't%20Click%20Me">here</a>
+  _demo [here](https://repl.it/@phpete/Dont-Click-Me-Javascript)_
 
 ### Scratch
 
@@ -21,37 +21,37 @@ _[← back](https://github.com/peterlopez/learn-to-code)_
 
 ### Turtle
 
-* [Flappy Bird](https://repl.it/@phpete/Flappy-Bird-Python) - Python
+* [Flappy Bird](Flappy%20Bird) - Python
 
-  source code <a href='Flappy%20Bird'>here</a>
+  _demo [here](https://repl.it/@phpete/Flappy-Bird-Python)_
 
-* [Snake](https://repl.it/@phpete/Snake-Python) - Python
+* [Snake](Snake) - Python
 
-  source code <a href='Snake'>here</a>
+  _demo [here](https://repl.it/@phpete/Snake-Python)_
 
 
 ### Text-based
 
-* [Tic Tac Toe](https://repl.it/@phpete/Tic-Tac-Toe-Python) - Python
+* [Tic Tac Toe](Tic-Tac-Toe) - Python
 
-  source code <a href='Tic-Tac-Toe'>here</a>
+  _demo [here](https://repl.it/@phpete/Tic-Tac-Toe-Python)_
 
-* [Detective Game](https://repl.it/@phpete/Detective-Game-Python) - Python
+* [Detective Game](Detective%20Game) - Python
 
-  source code <a href='Detective%20Game'>here</a>
+  _demo [here](https://repl.it/@phpete/Detective-Game-Python)_
 
-* [Binary Birthday Game](https://repl.it/@phpete/Binary-Birthday-Game-Python) - Python
+* [Binary Birthday Game](Binary%20Birthday%20Game) - Python
 
-  source code <a href='Binary%20Birthday%20Game'>here</a>
+  _demo [here](https://repl.it/@phpete/Binary-Birthday-Game-Python)_
 
-* [Coin Toss](https://repl.it/@phpete/Coin-Toss-C) - C++
+* [Coin Toss](Coin%20Toss) - C++
 
-  source code <a href='Coin%20Toss'>here</a>
+  _demo [here](https://repl.it/@phpete/Coin-Toss-C)_
 
-* [Number Guessing Game](https://repl.it/@phpete/Number-Guess-C) - C++
+* [Number Guessing Game](Number%20Guessing%20Game) - C++
 
-  source code <a href='Number%20Guessing%20Game'>here</a>
+  _demo [here](https://repl.it/@phpete/Number-Guess-C)_
 
-* [Sudoku Solver](https://repl.it/@phpete/) - Python
+* [Sudoku Solver](Sudoku%20Solver) - Python
 
-  source code <a href='Sudoku%20Solver'>here</a>
+  ~~_demo [here](#)_~~
