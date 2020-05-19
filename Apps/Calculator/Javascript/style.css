@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin: 2rem 0;
+}
+
+.submit {
+  margin-top: 1rem;
+}
+
+#calculator-form {
+  padding: 1.5rem;
+  background: #f1f1f1;
+}
+
+.operation > label {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.result-text {
+  font-size: 1.5rem;
+  display: none;
+}
