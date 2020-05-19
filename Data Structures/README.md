@@ -1,5 +1,5 @@
 # Learn to Code
-_[← back](..)_
+_[← back](https://github.com/peterlopez/learn-to-code)_
 
 ## Data Structures
 
