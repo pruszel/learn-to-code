@@ -4,16 +4,13 @@ Fun coding projects for learning to code, for every skill level and language.
 
 ### [Algorithms](Algorithms)
 
-
 ### [Data Structures](Data%20Structures)
 
 <hr>
 
-### [Games](Games)
-
-
 ### [Apps](Apps)
 
+### [Games](Games)
 
 ### [Puzzles](Puzzles)
 
